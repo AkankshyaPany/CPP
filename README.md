@@ -1,2 +1,0 @@
-# CPP
-daily learning cpp
